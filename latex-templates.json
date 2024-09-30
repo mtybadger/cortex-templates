@@ -1,0 +1,26 @@
+[
+    {
+        "id": "blank",
+        "name": "Blank",
+        "description": "",
+        "image": "images/blank.png"
+    },
+    {
+        "id": "ieee_journal",
+        "name": "IEEE Journal",
+        "description": "IEEE Journal template",
+        "image": "images/ieee_journal.png"
+    },
+    {
+        "id": "ieee_conference",
+        "name": "IEEE Conference",
+        "description": "IEEE Conference template",
+        "image": "images/ieee_conference.png"
+    },
+    {
+        "id": "resume",
+        "name": "Resume",
+        "description": "Resume/CV template",
+        "image": "images/resume.png"
+    }
+]
